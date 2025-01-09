@@ -1,0 +1,7 @@
+---
+draft: "true"
+---
+
+**Alex**: _Today is not my heyday. I'm feeling a bit low on energy, but that's perfectly okay. Occasionally, I tend to criticise myself for not achieving what I had planned. This tendency often drains my energy. However, today I feel relieved as I allow myself to be less productive than usual. I've learned that by showing love and support to my mind and body during such times, I can bounce back to a high-performing and eager state more quickly._
+
+**Yauhen**: _The importance of the topic clicks with me. And you are perfectly fine and mentally healthy by treating yourself with a break. Evolution has made our brains smart enough to know when a break is needed. In the mindset of an achiever, feelings of missing out, people often tend to oppress themselves. That makes the consequences even worse, as the productivity is not at the highest level anyway, a person is even more tired than before, and doesn't have a clear mind after long hours of hard work. But what’s worse, if the person doesn’t achieve something in the end, the brain could devalue the whole way of working, the behavior itself. And then a middle-age crisis knocks the door: the person has a problem with motivating themselves to even start as before it was too painful: energy spent, no result. The brain asks: why to spend the energy on something that doesn’t work?! Recharge your brain while it’s not starting running low on electricity._
