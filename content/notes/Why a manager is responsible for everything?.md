@@ -1,7 +1,7 @@
 ---
 tags:
   - management
-draft:
+draft: false
 ---
 A manager task is to deliver what the company needs within given time-scope-budget triangle.
 
