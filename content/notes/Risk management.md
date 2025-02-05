@@ -31,7 +31,7 @@ That will help to fill the following table (an example of short business travel 
 
 #### Reaction plan
 
-| Risk name                                                          | Plan A                                                                                        | Plab B                                                                                                     | Trigger                                                                      | Owner    |
+| Risk name                                                          | Plan A                                                                                        | Plan B                                                                                                     | Trigger                                                                      | Owner    |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- |
 | Being late to an important meeting due to a flight being cancelled | Buy an insurance; get an earlier flight; study other options if not flights (train, car, bus) | Utilize the options given the information about the flights; notify partners if you are late than expected | An announcement by the airline, a digital comm you received from the company | yourself |
 
