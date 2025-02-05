@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: true
 ---
 
 1. [Machine Learning Contests](https://mlcontests.com/)
