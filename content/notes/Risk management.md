@@ -25,15 +25,15 @@ flowchart TD
 
 That will help to fill the following table (example)
 
-| Risk | Probability | Impact | Importance |
-| ---- | ----------- | ------ | ---------- |
-|      |             |        |            |
+| Risk                                                               | Probability | Impact | Importance |
+| ------------------------------------------------------------------ | ----------- | ------ | ---------- |
+| Being late to an important meeting due to a flight being cancelled | ~ 1%        | High   | High       |
 
 #### Reaction plan
 
-| Risk name | Plan A | Plab B | Trigger | Owner |
-| --------- | ------ | ------ | ------- | ----- |
-|           |        |        |         |       |
+| Risk name               | Plan A                             | Plab B | Trigger | Owner |
+| ----------------------- | ---------------------------------- | ------ | ------- | ----- |
+| A flight gets cancelled | Buy insurance, get an earlier plan |        |         |       |
 Plan A - **before the risk occurs**, our actions to avoid the negative risk or mimize it's potential impact; in case of positive - actions to improve the probability of the risk to happen. The Plan A is immediately being executed after the identification.
 
 Plan B - our actions in case the risk occurred.
