@@ -17,4 +17,8 @@ When speaking of feedback in a professional setting, what helps to structure the
 | Attitude                     | personal, trusting                                                                                          | formal                                                         |
 | Support level                | full support in finding options and ways towards a solution to the behaviour in question                    | no intend in collaboration to overcome the undesired behaviour |
 
-## How to deliver
+#### How to deliver feedback
+
+There are multiple good tools that work in many but not all of the cases (remember, management is not science [[About people management]]).
+
+One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as 
