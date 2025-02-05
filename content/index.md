@@ -2,8 +2,11 @@
 draft: false
 title: main page
 ---
+
+You will find here short notes on various topics, e.g. #management 
+
 ```dataview
-TABLE WITHOUT ID file.etags
+TABLE WITHOUT ID join(rows.unique, ", ") AS "Tags to ease the navigation"
 FROM "content/notes"
 WHERE file.etags
 FLATTEN file.etags AS tag
@@ -12,7 +15,4 @@ FLATTEN rows.tag AS unique
 GROUP BY true
 ```
 
-
-You will find here short notes on various topics, e.g. #management 
-
-Every note has a [[Disclaimer|Disclaimer]]
+Every note has a [[Disclaimer|Disclaimer]].
