@@ -21,4 +21,6 @@ When speaking of feedback in a professional setting, what helps to structure the
 
 There are multiple good tools that work in many but not all of the cases (remember, management is not science [[About people management]]).
 
-One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as 
+One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as a proof it was not a case in reality. You reach to your partner after the meeting with a feedback:
+
+> "During the call we had (*situation*) you said "quote" (*behaviour*) which is not true given the facts I can share with you now. That requires me to have stakeholders informed about the reality which takes my time for extra management, as well as you might not be seen as a person who verifies the facts (*impact on both*)."
