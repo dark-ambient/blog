@@ -34,7 +34,9 @@ That will help to fill the following table (an example of short business travel 
 | Risk name                                                          | Plan A                                                                                        | Plab B                                                                                                     | Trigger                                                                      | Owner    |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- |
 | Being late to an important meeting due to a flight being cancelled | Buy an insurance; get an earlier flight; study other options if not flights (train, car, bus) | Utilize the options given the information about the flights; notify partners if you are late than expected | An announcement by the airline, a digital comm you received from the company | yourself |
-|                                                                    |                                                                                               |                                                                                                            |                                                                              |          |
+
+
+
 Plan A - **before the risk occurs**, our actions to avoid the negative risk or mimize it's potential impact; in case of positive - actions to improve the probability of the risk to happen. The Plan B is immediately being executed after the identification.
 
 Plan B - our actions in case the risk occurred.
@@ -49,10 +51,8 @@ A(Plan A)
 B(Plan B)
 R(Risk)
 T(Trigger)
-
 S(success)
 F(failure)
-
 A-->R-->T-.->|owner acts|B-->S
 T-.->|owner doesn't act|F
 ```
