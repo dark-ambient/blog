@@ -2,7 +2,7 @@
 draft:
 ---
 
-A person feels happy when see theiractions leading to an end goal.
+A person feels happy when sees their actions leading to a desired goal.
 
 ---
 [[Disclaimer|Disclaimer]]
