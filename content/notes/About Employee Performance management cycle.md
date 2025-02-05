@@ -1,0 +1,1 @@
+> People join companies (come to work on the promised scope) but leave managers.
