@@ -17,7 +17,7 @@ When speaking of feedback in a professional setting, what helps to structure the
 | Attitude                     | personal, trusting                                                                                          | formal                                                         |
 | Support level                | full support in finding options and ways towards a solution to the behaviour in question                    | no intend in collaboration to overcome the undesired behaviour |
 
-There is also a term of 'negative feedback', which is not only unconstructive but d
+There is also a term 'negative feedback', which is not only unconstructive but doesn't help anyone, including the employer. An example of such a feedback could be: "You did a bad thing." or "You are wrong!".
 #### How to deliver feedback
 
 There are multiple good tools that work in many but not all of the cases (remember, management is not science [[About people management]]).
