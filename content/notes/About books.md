@@ -1,5 +1,9 @@
 ---
 draft: false
+tags:
+  - "#books"
+  - "#learning"
+  - about-a-thing
 ---
 
 There are some thoughts about book as information medium.

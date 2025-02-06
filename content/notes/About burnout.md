@@ -1,6 +1,6 @@
 ---
 status: in-progress
-draft: "true"
+draft: true
 tags:
   - health
   - about-a-thing
