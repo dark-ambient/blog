@@ -1,5 +1,5 @@
 ---
-draft:
+draft: false
 ---
 
 A person feels happy when sees their actions leading to a desired goal.
