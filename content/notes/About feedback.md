@@ -24,14 +24,13 @@ There is also a term 'negative feedback', which is not only destructive but also
 
 With time of cooperation you would better keeping the difference as minimum as possible. What helps is asking for self-evaluation and listening carefully (as always) to look for even slight differences, clarifying interpretations with facts following the principles of constructive feedback described above. You can also read about [[About constructive confrontation|constructive confrontation]]. 
 
-Keep in mind what evaluation 'horizon' 1:1 should address
+Keep in mind what evaluation 'horizon' a 1:1 type of meeting should address.
 
-| Horizon                                                                                        | Frequency of the feedback |
-| ---------------------------------------------------------------------------------------------- | ------------------------- |
-| WHAT do I do? is it [[Why a manager is responsible for everything?\|do I do the right thing]]? | Immediate, daily          |
-| HOW do I do that? is it the way expected or not                                                |                           |
-
-
+| Horizon from an employee perspective                                                            | Frequency of the feedback                               |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| WHAT do I do? [[Why a manager is responsible for everything?\|do I do the right thing]]?        | Immediate, daily                                        |
+| HOW do I do that? [[content/notes/A sketch on managing people\|is it the way expected or not]]? | 1:1 meeing, current activities                          |
+| What are my overall longer term results?                                                        | 1:1 meeting and/or 3-6-12 months perf. evaluation cycle |
 
 #### How to deliver feedback
 

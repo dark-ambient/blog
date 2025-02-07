@@ -1,7 +1,7 @@
 ---
 tags:
   - management
-draft:
+draft: false
 ---
 ### Main idea
 > A good manager doesn't create new problems while solving already existing.

@@ -6,7 +6,7 @@ draft: false
 
 #### Now and future
 
-There are three states of a company:
+There are three states of a company at any time:
 - now (point A);
 - future (point B), where the company **wants to be**;
 - future (point X), where the company **doesn't want to be**.
