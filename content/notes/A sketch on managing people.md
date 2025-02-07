@@ -78,7 +78,7 @@ M(M detects the blocker) --> M1(M agrees on the way to unblock the DR)-.->|the a
 M1(agreement on unblocking with DR)-.->|the agreement doesn't work|A(point A: the task IS NOT delivered)
 ```
 
-[[content/notes/Why a manager is responsible for everything?|Why a manager is responsible for everything?]]
+[[notes/Why a manager is responsible for everything?|Why a manager is responsible for everything?]]
 
 ---
 [[publish/Disclaimer|Disclaimer]]
