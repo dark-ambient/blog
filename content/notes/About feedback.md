@@ -2,7 +2,7 @@
 draft: true
 ---
 ### Good and bad feedback
-The title is only to attract the attention. 
+The sub-title is only to attract your attention. 
 I intend to avoid the terms 'good' or 'bad' due to their subjectivity, as I haven't seen a case when it adds any value to a conversation. Labeling is not helpful as well. 
 
 What to use instead? I see that the terms 'in our interest' vs 'not in our interest' instead of 'good vs bad' keep the conversation focused.
@@ -17,10 +17,10 @@ When speaking of feedback in a professional setting, what helps to structure the
 | Attitude                     | personal, trusting                                                                                          | formal                                                         |
 | Support level                | full support in finding options and ways towards a solution to the behaviour in question                    | no intend in collaboration to overcome the undesired behaviour |
 
-There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering the manager's ego. An example of such a feedback could be: "You did a bad thing." or "You are wrong!". Keep in mind, that adults are often more rigid in changing the behavioral patterns.
+There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering a manager's ego. An example of such a feedback could be: "You did a bad thing!" or "You are wrong!", "I'm always right not you". Keep in mind, that adults are often more rigid to changing the behavioral patterns.
 
-#### Thing to avoid
-1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. 
+#### Things to avoid
+1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. One source of demotivation comes from being **not in sync** in how you evaluate a direct report professional performance and how your direct report evaluate themselves. With time of cooperation you keep the difference as minimum as possible
 
 
 #### How to deliver feedback
