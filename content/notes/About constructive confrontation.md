@@ -6,7 +6,7 @@ tags:
 ---
 #### Principles
 1. Talk to the Right Person (who is capable of making the decision on the matter)
-2. Timely, i.e. immediately after noticing the matter of discussion. Focus on the future, solving the issue 
+2. Timely, i.e. immediately after noticing the matter of discussion. Focus on the future, solving the issue right now.
 3. 
 4. 
 

@@ -20,6 +20,8 @@ When speaking of feedback in a professional setting, what helps to structure the
 There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering a manager's ego. An example of such a feedback could be: "You did a bad thing!" or "You are wrong!", "I'm always right not you". Keep in mind, that adults are often more rigid to changing the behavioral patterns.
 
 #### A thing to avoid - misalignment in evaluation
+In other words, a feeling of unfairness. One of the demotivational factors.
+
 1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. One source of demotivation comes from being **not in sync** in how you evaluate a direct report professional performance and how your direct report evaluates themselves. 
 
 With time of cooperation you would better keeping the difference as minimum as possible. What helps is asking for self-evaluation and listening carefully (as always) to look for even slight differences, clarifying interpretations with facts following the principles of constructive feedback described above. You can also read about [[About constructive confrontation|constructive confrontation]]. 
