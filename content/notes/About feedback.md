@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 ### Good and bad feedback
 The sub-title is only to attract your attention. 
@@ -23,6 +23,14 @@ There is also a term 'negative feedback', which is not only destructive but also
 1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. One source of demotivation comes from being **not in sync** in how you evaluate a direct report professional performance and how your direct report evaluates themselves. 
 
 With time of cooperation you would better keeping the difference as minimum as possible. What helps is asking for self-evaluation and listening carefully (as always) to look for even slight differences, clarifying interpretations with facts following the principles of constructive feedback described above. You can also read about [[About constructive confrontation|constructive confrontation]]. 
+
+Keep in mind what evaluation 'horizon' 1:1 should address
+
+| Horizon                                                                                        | Frequency of the feedback |
+| ---------------------------------------------------------------------------------------------- | ------------------------- |
+| WHAT do I do? is it [[Why a manager is responsible for everything?\|do I do the right thing]]? | Immediate, daily          |
+| HOW do I do that? is it the way expected or not                                                |                           |
+
 
 
 #### How to deliver feedback
