@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 ### Good and bad feedback
 The title is only to attract the attention. 
@@ -17,7 +17,12 @@ When speaking of feedback in a professional setting, what helps to structure the
 | Attitude                     | personal, trusting                                                                                          | formal                                                         |
 | Support level                | full support in finding options and ways towards a solution to the behaviour in question                    | no intend in collaboration to overcome the undesired behaviour |
 
-There is also a term 'negative feedback', which is not only unconstructive but doesn't help anyone, including the employer. An example of such a feedback could be: "You did a bad thing." or "You are wrong!".
+There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering the manager's ego. An example of such a feedback could be: "You did a bad thing." or "You are wrong!". Keep in mind, that adults are often more rigid in changing the behavioral patterns.
+
+#### Thing to avoid
+1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. 
+
+
 #### How to deliver feedback
 
 There are multiple good tools that work in many but not all of the cases (remember, management is not science [[About people management]]).
@@ -25,3 +30,4 @@ There are multiple good tools that work in many but not all of the cases (rememb
 One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as a proof it was not a case in reality. You reach to your partner after the meeting with a feedback:
 
 > "During the call we had (*situation*) you said "quote" (*behaviour*) which is not true given the facts I can share with you now. That requires me to have stakeholders informed about the reality which takes my time for extra management, as well as you might not be seen as a person who verifies the facts (*impact on both*)."
+
