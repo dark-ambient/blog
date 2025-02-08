@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags:
   - communication
   - conflict-management
@@ -18,6 +18,7 @@ tags:
 
 Examples of unconstructive confrontation:
 - "Why haven't you deployed a new version of the product to a production environment?" (The principles)
+- "I knew you will not make it to the production"? (If you knew, why would not y)
 
 
 ## Step by step guidance
@@ -34,6 +35,11 @@ Examples of unconstructive confrontation:
 		3. detect the trigger that changed the behaviour
 		4. 4 reasons on [[content/notes/A sketch on managing people#**Passive DR**|why people don't do the expected]].
 2. Communication step
+	1. find the point of agreement
+3. Come up with a solution to the issue
+	1. consider options from different parties
+	2. fix the agreement
+4. Control of the agreement
 	
 
 ---
