@@ -20,13 +20,14 @@ Examples of unconstructive confrontation:
 - "Why haven't you deployed a new version of the product to a production environment?" (The principles)
 
 
-## Guidance
+## Step by step guidance
 1. Preparation
 	1. What is a problem?
 		1. How does it impact the work?
 		2. If not addressed, what might happen in future?
 	2. What is the goal?
 		1. What will be in the end?
+		2. Don't mix the goal and solutions popping up in your mind.
 	3. 
 
 ---
