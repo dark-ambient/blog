@@ -28,7 +28,12 @@ Examples of unconstructive confrontation:
 	2. What is the goal?
 		1. What will be in the end?
 		2. Don't mix the goal and solutions popping up in your mind.
-	3. 
+	3. The view from an opponent's side
+		1. Positive intention ([[Milton-ericson]])
+		2. best available option
+		3. detect the trigger that changed the behaviour
+2. Communication step
+	
 
 ---
 [[Disclaimer]]
