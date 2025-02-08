@@ -18,7 +18,7 @@ tags:
 
 Examples of unconstructive confrontation:
 - "Why haven't you deployed a new version of the product to a production environment?" (The principles)
-- "I knew you will not make it to the production"? (If you knew, why would not y)
+- "I knew you will not make it to the production"? (If you knew, why would not you come earlier?)
 
 
 ## Step by step guidance
