@@ -1,5 +1,5 @@
 ---
-draft:
+draft: false
 ---
 
 1. Write down what's exactly the idea about?
