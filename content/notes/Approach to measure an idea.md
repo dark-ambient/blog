@@ -7,7 +7,7 @@ draft: false
 3. What's the end result?
 4. What's the impact of the change on ... client, customer, boss?
 5. What are the steps of integration into the real world?
-6. What are the [risks]([[Risk management|Risk management]])?
+6. What are the [[Risk management|risks]]?
 7. What is the calculation?
 8. How to check the hypothesis?
 9. What if the hypothesis is not correct?
