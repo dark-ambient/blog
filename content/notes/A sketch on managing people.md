@@ -36,7 +36,7 @@ Moving the other way, i.e. being active towards future point X where the company
 
 Manager's tasks here are:
 1. to show that the recent actions are against both the company's and individual's goals;
-2. come up with an agreement to be back on the track towards B.
+2. come up with an agreement to be back on track towards B.
 
 ```mermaid
 flowchart TB
