@@ -45,7 +45,7 @@ M-->F(feedback from M: 👎🏻)-->Agree(agree on the change ❤️‍🩹)-.->|
 Agree-.->|Change doesn't happen|M
 ```
 This also includes toxic ways while reaching B, unless the toxicity is part of a way a company achieves goals. Allowed toxicity is a rare thing for a company competing on the labour market with other companies.
-#### **Passive DR** 
+#### Passive DR 
 (not moving or moving slowly)
 
 The goal of the manager is to unblock a DR. The ways to unblock depend on the root cause of the blocker and always individual agreements needs to be made during 1:1 discussion.
