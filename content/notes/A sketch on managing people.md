@@ -23,7 +23,7 @@ Thus, the M's job is to make DRs move from A to B safely and while helping to ac
 
 While moving, a DR can be in two states: **active** or **passive**.
 
-#### **Active DR**
+#### Active DR
 If the DR moves from A to B actively, then the M's task is to give a positive feedback at least verbally: "It's good. I see what and how you do, continue the same way, please."
 ```mermaid
 

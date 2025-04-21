@@ -16,7 +16,7 @@ That includes a range of processes from the inner circle social dynamics to mark
 
 Therefore, a manager is responsible for each individual delivery as part of other [[Risk management|risks]].
 
-The reasons of not delivering were mentioned in [[A sketch on managing people|a sketch on managing people]], but how to avoid them?
+The reasons of not delivering were mentioned in [[A sketch on managing people#Passive DR|a sketch on managing people]], but how to avoid them?
 
 > The simple answer is to be a part of the team - talk to people and know people before the targets get missed.
 
