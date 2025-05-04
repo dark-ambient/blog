@@ -3,18 +3,17 @@ tags:
   - management
 draft: false
 ---
-A project manager task is to deliver what the company needs within given time-scope-budget triangle. A people manager responsibility is [[content/notes/A sketch on managing people#People Manager's responsibility|here]].
+A project manager task is to deliver what the company needs within given time-scope-budget triangle. A people manager responsibility is [[content/notes/A sketch on managing people#People Manager's responsibility|here]]. Often a single person holds both people and project manager roles.
 
 Great projects are delivered by great teams. 
 A great team delivers as a team when everyone delivers. 
 
-The only manager task is to create environment that allows the delivery. 
-Usually, it's done by the means of proactively managing underperformance,
-and also being less involved in order to create space for direct reports to grow.
+The ultimate manager task is to create environment that allows the delivery and stakeholders including the direct reports are essential.
 
-That includes a range of processes from the inner circle social dynamics to market forces.
+People manager creates high performant environment by the various means, including  proactively managing underperformance, giving space for growth to high performers  individually and at a team level. 
+This needs a range of processes from the inner circle social dynamics to market forces environments.
 
-Therefore, a manager is responsible for each individual delivery as part of other [[Risk management|risks]].
+Therefore, a manager is responsible for each individual delivery as part of a project delivery.
 
 The reasons of not delivering were mentioned in [[A sketch on managing people#Passive DR|a sketch on managing people]], but how to avoid them?
 
