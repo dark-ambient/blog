@@ -11,7 +11,7 @@ There are three states of a company at any time:
 - future (point B), where the company **wants to be**;
 - future (point X), where the company **doesn't want to be**.
 
-#### Manager's reponsibility
+#### People Manager's responsibility
 A manager (M) responsibility is to make the transition from A to B happen together with direct reports (DR)
 ```mermaid
 flowchart TB

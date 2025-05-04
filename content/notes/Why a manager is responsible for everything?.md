@@ -3,7 +3,7 @@ tags:
   - management
 draft: false
 ---
-A manager task is to deliver what the company needs within given time-scope-budget triangle.
+A project manager task is to deliver what the company needs within given time-scope-budget triangle. A people manager responsibility is [[content/notes/A sketch on managing people#People Manager's responsibility|here]].
 
 Great projects are delivered by great teams. 
 A great team delivers as a team when everyone delivers. 
