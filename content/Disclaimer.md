@@ -1,5 +1,5 @@
 ---
-draft:
+draft: false
 ---
 
 - I don’t claim any novelty. All the ideas are based on my own and other people’s thoughts.  Occasionally, I link the sources I learned an idea from.

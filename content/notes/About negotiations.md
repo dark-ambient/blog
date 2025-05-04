@@ -28,3 +28,5 @@ For simplicity, let's have examples of the parties involved: you, John, and Max.
 | Agree on the points of control                                                                                                                                                                                                                                                                                                               |                                           |                                   |     |
 
 ##### 3. Negotiation itself
+
+WIP
