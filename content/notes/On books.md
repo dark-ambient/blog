@@ -9,13 +9,13 @@ tags:
 There are some thoughts about book as information medium.
 
 #### tech books
-I work in tech. One day in 2009 I was having a lunch with my peers and my engineering manager. A peer asked my manager what tech books did he read? The manager gave somehow surprising answer to me: he doesn't read a lot.
+I work in tech. One day in 2009 I was having a lunch with my peers and my engineering manager. A peer asked my manager what tech books did he read? The manager gave somehow surprising answer to me and said he didn't read a lot.
 
 "Interesting 🤨.." - I though. "Why?" - I asked not giving a second to my peer to follow up with the same question. (I listen more since that time).
 
-The answer was simple: "On a daily basis you deal with challenges you need to respond fast, so not time for books". 
+The answer was simple: "On a daily basis you deal with challenges you need to respond fast, so not time for books. I read only articles". 
 
-That makes sense.
+That made sense.
 
 I'm sure he had also read a lot before to form his mental model, giving his rich language vocabulary.
 
