@@ -4,3 +4,8 @@
 3. Each milestone
 4. Periodic. Every N units of time (every day, week, month). Depends on a task
 5. Selective, Random; when there are too many (conveyor, a random bottle is open for a check)
+
+
+---
+[[Disclaimer|Disclaimer]]
+

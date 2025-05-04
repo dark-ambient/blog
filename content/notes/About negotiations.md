@@ -30,3 +30,9 @@ For simplicity, let's have examples of the parties involved: you, John, and Max.
 ##### 3. Negotiation itself
 
 WIP
+
+
+
+---
+[[Disclaimer|Disclaimer]]
+

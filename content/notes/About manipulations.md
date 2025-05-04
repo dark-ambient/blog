@@ -15,3 +15,10 @@ Let's agree on the term (based on Chaldini's book):
 #### Why are manipulations not good for you
 
 In the long term destroy your credibility as a manager
+
+
+
+
+---
+[[Disclaimer|Disclaimer]]
+
