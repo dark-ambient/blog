@@ -23,7 +23,7 @@ Open this in **Reading view** (not Live Preview) after enabling the
 
 ## 4. Remote PDF over HTTPS
 
-![](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+![rrrr](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
 
 ## 5. Remote image over HTTPS (handled natively by Obsidian)
 
