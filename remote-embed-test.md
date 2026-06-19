@@ -11,15 +11,15 @@ Open this in **Reading view** (not Live Preview) after enabling the
 
 ## 1. Local image — absolute path (wiki embed)
 
-![[/Users/yk/core/second_brain/gdrive/Polish legalisation/list od docs.png]]
+![[/Users/yk/Documents/gdrive/Polish legalisation/list od docs.png]]
 
 ## 2. Local PDF — absolute path (markdown syntax)
 
-![](/Users/yk/core/second_brain/gdrive/fort_wola12a-32.pdf)
+![](/Users/yk/Documents/gdrive/fort_wola12a-32.pdf)
 
 ## 3. Local PDF — absolute path (wiki embed)
 
-![[/Users/yk/core/second_brain/gdrive/Scanned 10 Jun 2024 at 20:28:59.pdf]]
+![[/Users/yk/Desktop/Screenshot 2026-06-03 at 09.29.06.png]]
 
 ## 4. Remote PDF over HTTPS
 
@@ -27,7 +27,7 @@ Open this in **Reading view** (not Live Preview) after enabling the
 
 ## 5. Remote image over HTTPS (handled natively by Obsidian)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/320px-PNG_transparency_demonstration_1.png)
+![pic](https://en.wikipedia.org/wiki/Vegas_Golden_Knights#/media/File:Vegas_Golden_Knights_logo.svg)
 
 ## 6. Remote markdown rendered inline
 
