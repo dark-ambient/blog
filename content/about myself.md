@@ -5,14 +5,11 @@ draft: true
 My linkedin page is [here](https://www.linkedin.com/in/yauhen).
 
 ## Work experience
+Through my career I took on a few roles, including being a software engineer and engineering manager, moreover, due to my additional interests to the academic world, I contributed to various products in the roles of a principal scientist and a head of an NLP department.
 
-| Role                   | Timeline | Responsibilities | Outcomes for business |
-| ---------------------- | -------- | ---------------- | --------------------- |
-| Engineering manager    |          |                  |                       |
-| Principal Scientist    |          |                  |                       |
-| Head of NLP department |          |                  |                       |
-| Software Engineer      |          |                  |                       |
 
+---
+* NLP, or natural language processing, is a software discipline covering multiple aspects of processing human language by computers, including both audio, audio-visual and text based media.
 ## Education
 | School | Timeline | Degree |
 | ------ | -------- | ------ |
