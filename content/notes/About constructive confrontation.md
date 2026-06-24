@@ -39,8 +39,3 @@ Examples of unconstructive confrontation:
 	1. consider options from different parties
 	2. fix the agreement
 4. Control of the agreement
-	
-
----
-[[Disclaimer|Disclaimer]]
-
