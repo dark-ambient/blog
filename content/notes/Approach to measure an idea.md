@@ -1,7 +1,6 @@
 ---
 draft: false
 ---
-
 1. Write down what's exactly the idea about?
 2. What are the actions necessary to make it real?
 3. What's the end result?
@@ -14,5 +13,3 @@ draft: false
 10. What sort of help do you need?
 11. When do you start?
 12. Do you have a plan B? The solution should have an alternative
----
-[[Disclaimer|Disclaimer]]

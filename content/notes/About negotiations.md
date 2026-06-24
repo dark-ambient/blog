@@ -31,8 +31,3 @@ For simplicity, let's have examples of the parties involved: you, John, and Max.
 
 WIP
 
-
-
----
-[[Disclaimer|Disclaimer]]
-

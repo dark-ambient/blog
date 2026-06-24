@@ -45,9 +45,3 @@ One of those is Situation-Behaviour-Impact frame, which helps us to avoid  afore
 
 > "During the call we had (*situation*) you said "quote" (*behaviour*) which is not true given the facts I can share with you now. That requires me to have stakeholders informed about the reality which takes my time for extra management, as well as you might not be seen as a person who verifies the facts (*impact on both*)."
 
-
-
-
----
-[[Disclaimer|Disclaimer]]
-
