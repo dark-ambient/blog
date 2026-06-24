@@ -32,7 +32,7 @@ Examples of unconstructive confrontation:
 		1. positive intention ([[Milton-ericson]])
 		2. best available option
 		3. detect the trigger that changed the behaviour
-		4. 4 reasons on [[content/notes/A sketch on managing people#**Passive DR**|why people don't do the expected]].
+		4. 4 reasons on [[content/notes/people/A sketch on managing people#**Passive DR**|why people don't do the expected]].
 2. Communication step
 	1. find the point of agreement
 3. Come up with a solution to the issue
