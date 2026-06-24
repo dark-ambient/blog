@@ -80,5 +80,3 @@ M1(agreement on unblocking with DR)-.->|the agreement doesn't work|A(point A: th
 
 [[notes/Why a manager is responsible for everything?|Why a manager is responsible for everything?]]
 
----
-[[Disclaimer|Disclaimer]]

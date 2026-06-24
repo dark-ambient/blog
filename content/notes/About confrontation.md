@@ -12,7 +12,3 @@ Conflict - a state of parties where at least one of the parties without a permis
 ```
 
 There is a difference between 
-
-
----
-[[Disclaimer|Disclaimer]]
