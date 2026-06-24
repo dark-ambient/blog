@@ -59,7 +59,3 @@ T-.->|owner doesn't act|F
 
 
 There are various strategies for the Plan A: avoid, mitigate, transfer, accept a risk.
-
-
----
-[[Disclaimer|Disclaimer]]

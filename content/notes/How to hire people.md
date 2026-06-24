@@ -40,7 +40,3 @@ case-->stress_case(stress case)
 ```
 
 WIP
-
----
-[[Disclaimer|Disclaimer]]
-

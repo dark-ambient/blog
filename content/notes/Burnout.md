@@ -18,5 +18,3 @@ X(burnout)
 
 A-->B-->C-->D-->X
 ```
----
-[[Disclaimer|Disclaimer]]

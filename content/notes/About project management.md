@@ -1,7 +1,3 @@
 ---
 draft: true
 ---
-
----
-[[Disclaimer|Disclaimer]]
-
