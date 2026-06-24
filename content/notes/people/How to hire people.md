@@ -2,7 +2,7 @@
 draft: false
 ---
 ## Goals
-The goal of hiring is to get a person (competencies) often for a long time, so the match that will help the company reach long-term goals over time. In a nutshell, as a hiring manager you will need to get the answer to the question if the person will do the job? And following the [[content/notes/people/Why a manager is responsible for everything?|reasons why people don't do stuff]], the answers to the following questions a hiring manager looks for:
+The goal of hiring is to get a person (competencies) often for a long time, so the match that will help the company reach long-term goals over time. In a nutshell, as a hiring manager you will need to get the answer to the question if the person will do the job? And following the [[notes/people/Why a manager is responsible for everything?|reasons why people don't do stuff]], the answers to the following questions a hiring manager looks for:
 1. does a candidate have the necessary hard-skills? (*can-do*)
 2. does a candidate want to do the job/tasks we will be offering (*want-do*) - motivation
 3. does a candidate have the ability to execute in the environment given current conditions (able-to-do)

@@ -33,4 +33,4 @@ Beware of the book lists you create as you change as a person over time. And a l
 
 Don't be afraid not to follow a promise to yourself to read all in your book list, stay flexible and focused on the issues you try to solve right now, not on the sources where solutions could be. Otherwise, the idea is similar to the one depicted on the lamppost image below
 
-![[content/pictures/54100eae-1fee-40b7-b3d7-c0b9e309da1c_SP+711+-+Looking+under+the+lamppost.png]]
+![[pictures/54100eae-1fee-40b7-b3d7-c0b9e309da1c_SP+711+-+Looking+under+the+lamppost.png]]
