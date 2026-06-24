@@ -34,5 +34,5 @@ Therefore, given the reason solution differs:
 	- There is a joke I find important to keep in mind: "the shorter the question, the longer the answer".
 		- **Solution**: similar things apply to a tech task, as more details you put into describing it, the less ambiguity you leave to fight with.
 		- "Magic" question to ask here: "how do you want to address this task?", and then, as usual, listen carefully and challenge with questions, as well as be open to change your opinion.
-		- Also, [[Tech workers seniority levels|Tech workers seniority levels]] might help to set your expectations about which level of clarity to provide.
+		- Also, [[Software Tech workers seniority levels|Tech workers seniority levels]] might help to set your expectations about which level of clarity to provide.
 
