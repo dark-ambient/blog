@@ -21,11 +21,11 @@ The reasons of not delivering were mentioned in [[A sketch on managing people#Pa
 
 Therefore, given the reason solution differs:
 - **Reason** 1 - there is 😞 **No desire** to deliver a particular task:
-	- **Solution**: ask about risks could prevent from delivery and listen carefully. Are there signs of any blockers? There were plenty examples in my career. One memorable is when a person was not taking a task into work that required a significant investment into software integration tests due to a fear of failure. That fear had formed after breaking high-stakes major product release due to a wrong test that didn't catch The Bug.
+	- **Solution**: ask about risks that could prevent delivery and listen carefully. Are there signs of any blockers? There were plenty examples in my career. One memorable is when a person was not taking a task into work that required a significant investment into software integration tests due to a fear of failure. That fear had formed after breaking high-stakes major product release due to a wrong test that didn't catch The Bug.
 - **Reason** 2 There is 🪫 **No ability (mental and physical)**:
 	- **Solution**: Start with simple questions: 
 		- what is the mind-battery level (when was the person last on vacation, are there other troubles in the family), whether a neighbor has that drilling day? Was it their first day after having a day off due to sickness?
-			- Be sure the battery is not completely empty before it's [[Burnout|it's too late]].
+			- Be sure the battery is not completely empty before [[Burnout|it's too late]].
 		- Of course, not every question applies to everyone with the same level of importance. Regardless, it's the job of the manager to be aware of those things and reduce the risk they impose.
 - **Reason**: 🍳 No skill
 	- **Solution**: Don't ask "Am I sure he/she delivers it?", ask "what will be necessary for delivery: first, second, third skill". "Have I seen the person had applied the skills 1,2,3? If not, how can I check they are there?" - and act (usually asking directly is a way to get a first insight).
