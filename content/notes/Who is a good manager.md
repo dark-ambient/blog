@@ -14,6 +14,3 @@ It's one of the reasons why pros could look like doing nothing but everything wo
 Why does a pro manage the risks proactively? Well, being a pro often (if not all the time) means being experienced. 
 
 And being experienced often means having a bunch of lessons learned. And that consequently implies being aware of particular risks given the state of regulators, market, company, product, project, team, individuals, as well as how to avoid those negative and how to increase the chances of positive risks. (there are a few words about [[Risk management|Risk management]]). 
-
----
-[[Disclaimer|Disclaimer]]

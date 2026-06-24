@@ -36,7 +36,3 @@ Therefore, given the reason solution differs:
 		- "Magic" question to ask here: "how do you want to address this task?", and then, as usual, listen carefully and challenge with questions, as well as be open to change your opinion.
 		- Also, [[Tech workers seniority levels|Tech workers seniority levels]] might help to set your expectations about which level of clarity to provide.
 
----
-[[Disclaimer|Disclaimer]]
-
-
