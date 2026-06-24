@@ -3,10 +3,10 @@ draft: false
 ---
 ## Goals
 The goal of hiring is to get a person (competencies) often for a long time, so the match that will help the company reach long-term goals over time. In a nutshell, as a hiring manager you will need to get the answer to the question if the person will do the job? And following the [[content/notes/Why a manager is responsible for everything?|reasons why people don't do stuff]], the answers to the following questions a hiring manager looks for:
-1. does a candidate have necessary hard-skills? (what we can *can-do*)
+1. does a candidate have the necessary hard-skills? (*can-do*)
 2. does a candidate want to do the job/tasks we will be offering (*want-do*) - motivation
-3. does a candidate have ability to execute in the environment given current conditions (able-to-do)
-4. will be a given task clear to the candidate and/or the candidate will be able to clarify a given task. Usually, the level of ambiguity depends on the position seniority.
+3. does a candidate have the ability to execute in the environment given current conditions (able-to-do)
+4. will a given task be clear to the candidate and/or will the candidate be able to clarify a given task. Usually, the level of ambiguity depends on the position seniority.
 
 ## How to hire?
 We defined the goal of a hiring manager, now let's briefly touch some of the tools a hiring manager can use during the interviews in order to get the necessary signals.

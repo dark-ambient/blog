@@ -17,7 +17,7 @@ tags:
 
 
 Examples of unconstructive confrontation:
-- "Why haven't you deployed a new version of the product to a production environment?" (the question doesn't have any good answer, and what's worse, ruins trust putting the direct report in defensive position) - failing on the principle #4 - focus on the issue, not the person.
+- "Why haven't you deployed a new version of the product to a production environment?" (the question doesn't have any good answer, and what's worse, ruins trust putting the direct report in a defensive position) - failing on the principle #4 - focus on the issue, not the person.
 - "I knew you would not make it to the production"? (immediate idea of anyone hearing this: If you knew, why didn't you come earlier?) - failing on the 'Timely' principle.
 
 ## Step by step guidance

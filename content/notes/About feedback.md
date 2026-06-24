@@ -18,12 +18,12 @@ When speaking of feedback in a professional setting, what helps to structure the
 | Attitude                     | personal, trusting                                                                                               | formal                                                         |
 | Support level                | full support in finding options and ways towards a solution to the behaviour in question                         | no intent to collaborate on overcoming the undesired behaviour |
 
-There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering a manager's ego. An example of such feedback could be: "You did a bad thing!" or "You are wrong!", "I'm always right not you". Keep in mind, that adults are often more rigid to changing the behavioural patterns.
+There is also a term 'negative feedback', which is not only destructive but also doesn't solve anything except bolstering a manager's ego. An example of such feedback could be: "You did a bad thing!" or "You are wrong!", "I'm always right not you". Keep in mind that adults are often more resistant to changing the behavioural patterns.
 
 #### A thing to avoid - misalignment in evaluation
 In other words, a feeling of unfairness. One of the de-motivational factors. (there are studies confirming the evolutionary importance of the feeling of unfairness in social animals, [click](https://www.youtube.com/watch?v=-KSryJXDpZo)).
 
-The 1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. One source of demotivation comes from being **not in sync** in how you evaluate a direct report professional performance and how your direct report evaluates themselves. 
+The 1:1 meetings have several goals, one of them is to reduce the risk of your direct report being demotivated. One source of demotivation comes from being **not in sync** in how you evaluate a direct report's professional performance and how your direct report evaluates themselves. 
 
 Combining two 
 
@@ -41,7 +41,7 @@ Keep in mind what evaluation 'horizon' a 1:1 type of meeting should address.
 
 There are multiple good tools that work in many but not all of the cases (remember, management is not science [[About people management]]).
 
-One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as a proof it was not a case in reality. You reach to your partner after the meeting with a feedback:
+One of those is Situation-Behaviour-Impact frame, which helps us to avoid  aforementioned personality judgement. E.g. your partner at work makes a claim in public that their team was not able to deliver the expected results due to delays from you. You disagree but avoid public confrontation to get more data as a proof it was not a case in reality. You reach out to your partner after the meeting with feedback:
 
 > "During the call we had (*situation*) you said "quote" (*behaviour*) which is not true given the facts I can share with you now. That requires me to have stakeholders informed about the reality which takes my time for extra management, as well as you might not be seen as a person who verifies the facts (*impact on both*)."
 

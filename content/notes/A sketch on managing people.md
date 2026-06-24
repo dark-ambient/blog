@@ -12,7 +12,7 @@ There are three states of a company at any time:
 - future (point X), where the company **doesn't want to be**.
 
 #### People Manager's responsibility
-A manager (M) responsibility is to make the transition from A to B happen together with direct reports (DR)
+A manager's (M) responsibility is to make the transition from A to B happen together with direct reports (DR)
 ```mermaid
 flowchart TB
 A(now: A)-->M(M does the job) --> B(future: B)
@@ -24,7 +24,7 @@ Thus, the M's job is to make DRs move from A to B safely and while helping to ac
 While moving, a DR can be in two states: **active** or **passive**.
 
 #### Active DR
-If the DR moves from A to B actively, then the M's task is to give a positive feedback at least verbally: "It's good. I see what and how you do, continue the same way, please."
+If the DR moves from A to B actively, then the M's task is to give positive feedback at least verbally: "It's good. I see what and how you do, continue the same way, please."
 ```mermaid
 
 flowchart TB
@@ -48,7 +48,7 @@ This also includes toxic ways while reaching B, unless the toxicity is part of a
 #### Passive DR 
 (not moving or moving slowly)
 
-The goal of the manager is to unblock a DR. The ways to unblock depend on the root cause of the blocker and always individual agreements needs to be made during 1:1 discussion.
+The goal of the manager is to unblock a DR. The ways to unblock depend on the root cause of the blocker, and individual agreements always need to be made during a 1:1 discussion.
 
 The reasons why people don't do something a manager needs them to do?
 
@@ -60,7 +60,7 @@ The reasons why people don't do something a manager needs them to do?
 	2. legal issues (even if not criminal related, it could be such issues as real estate, immigration);
 	3. uncomfortable living or **working** conditions (noise, toxic colleagues);
 	4. safety risks (e.g. war, political instability);
-	5. significant necessary spendings;
+	5. significant necessary expenses;
 	6. being tired or exhausted after a period of intense work.
 3. **Doesn't have a proper skill**
 	- Mind that sometimes people believe they do have the skill before starting the work on a task. The manager's responsibility is to give only the tasks according to the Goldilocks rule, i.e. not too boring and not too challenging at the current level of expertise.

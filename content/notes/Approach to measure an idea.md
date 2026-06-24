@@ -11,7 +11,7 @@ draft: false
 7. What is the calculation?
 8. How to check the hypothesis?
 9. What if the hypothesis is not correct?
-10. What sort of help you need?
+10. What sort of help do you need?
 11. When do you start?
 12. Do you have a plan B? The solution should have an alternative
 ---

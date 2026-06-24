@@ -17,7 +17,7 @@ The answer was simple: "On a daily basis you deal with challenges you need to re
 
 That made sense.
 
-I'm sure he had also read a lot before to form his mental model, giving his rich language vocabulary.
+I'm sure he had also read a lot before to form his mental model, given his rich language vocabulary.
 
 #### books about management
 I do engineering management and often invest into my education in the domain. 

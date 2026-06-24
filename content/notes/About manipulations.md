@@ -9,7 +9,7 @@ tags:
 #### What is a manipulation
 Although the term manipulation often has a negative connotation, similarly to the term risk, that negative connotation should not always be attached.
 
-Let's agree on the term (based on Chaldini's book):
+Let's agree on the term (based on Cialdini's book):
 
 
 #### Why are manipulations not good for you
